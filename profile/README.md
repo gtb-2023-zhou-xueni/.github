@@ -5,5 +5,6 @@
 
 A throwback to the days in Singapore:
 
-![这是图片](/Users/zhouxueni/Downloads/IMG_8795.HEIC "NTU")
+![这是图片](/assets/IMG_3889.HEIC "NTU")
 
+![图片](assets/IMG_3889.HEIC "NTU")
