@@ -15,4 +15,4 @@ A throwback to the days in Singapore:
 
 - Infinity pool on Marina Bay Sands
 
-<img src="assets/IMG_0947.JPG" alt="Sentosa" width="50%" />
+<img src="assets/IMG_0947.JPG" alt="MBS" width="50%" />
