@@ -5,6 +5,5 @@
 
 A throwback to the days in Singapore:
 
-<img src="assets/IMG_8795.jpg" alt="ntu" />
 
-![ntu](assets/IMG_8795.jpg)
+![ntu](assets/IMG_8798.jpg)
